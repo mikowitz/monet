@@ -1,0 +1,59 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[papersize={9in, 12in}, margin=0.5in]{geometry}
+\usepackage{fontspec,graphicx,nopageno,tikz,xltxtra,xunicode}
+\usetikzlibrary{calc}
+\defaultfontfeatures{Scale=MatchLowercase}
+\newlength{\drop}
+\parindent=0pt
+\setmainfont{Adobe Garamond Pro}
+
+\begin{document}
+    \begin{titlepage}
+
+        % \begin{tikzpicture}[remember picture, overlay]
+        %     \draw[line width = 2pt]
+        %         ($(current page.north west) + (0.5in,-0.5in)$)
+        %         rectangle
+        %         ($(current page.south east) + (-0.5in,0.5in)$);
+        % \end{tikzpicture}
+
+        \drop=0.1\textheight
+        \centering
+
+        \vspace*{20\baselineskip}
+        {
+            \scalebox{1}[2]
+            {\fontsize{1.5cm}{1em}\selectfont \textit{\textbf{UN \hspace{.2em} JOUR \hspace{.2em} À \hspace{.2em} ROUEN}}}
+        }
+        \vspace*{1\baselineskip}
+
+        % \vspace*{5\baselineskip}
+
+        {
+          \begin{flushright}
+            \scalebox{1}[2]
+            {\fontsize{.75cm}{1em}\selectfont michael \hspace{1pt} berkowitz \hspace{1pt}}
+          \end{flushright}
+        }
+
+
+        \vfill
+
+        {
+            \scalebox{1}[2]
+            {\fontsize{0.5cm}{1em}\selectfont \itshape for string quartet}
+        }
+
+        \vspace*{1\baselineskip}
+
+        {
+            \scalebox{1}[2]
+            {\fontsize{0.5cm}{1em}\selectfont \itshape (2019)}
+        }
+
+        % \vspace*{2\baselineskip}
+        % \vfill
+
+    \end{titlepage}
+\end{document}

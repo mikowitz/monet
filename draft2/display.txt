@@ -1,0 +1,46 @@
+
+(make-music
+  'SequentialMusic
+  'elements
+  (list (make-music
+          'ContextSpeccedMusic
+          'context-type
+          'Score
+          'element
+          (make-music
+            'OverrideProperty
+            'once
+            #t
+            'pop-first
+            #t
+            'grob-value
+            #(#t #f #f)
+            'grob-property-path
+            (list (quote break-visibility))
+            'symbol
+            'RehearsalMark))
+        (make-music
+          'ContextSpeccedMusic
+          'context-type
+          'Score
+          'element
+          (make-music
+            'OverrideProperty
+            'once
+            #t
+            'pop-first
+            #t
+            'grob-value
+            1
+            'grob-property-path
+            (list (quote self-alignment-X))
+            'symbol
+            'RehearsalMark))
+        (make-music
+          'MarkEvent
+          'tweaks
+          (list (cons (quote X-offset) -4)
+                (cons (quote Y-offset) 5))
+          'label
+          (markup #:line (#:bold (#:fontsize 2 "00:16"))))))
+

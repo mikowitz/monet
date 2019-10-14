@@ -1,0 +1,568 @@
+====== SECTION 1 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+b      , ppp, 3      , circ. , pizz  , 7       , 2
+====== SECTION 2 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+b      , pp , 4      , circ. , pizz  , 7       , 2
+b      , ppp, 1      , circ. , F     , 6       , 2
+====== SECTION 3 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+b      , pp , 3      , circ. , pizz  , 7       , 2
+fs     , pp , 0      , nat.  , F     , 7       , 2
+b      , pp , 3      , nat.  , F     , 6       , 2
+====== SECTION 4 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+b      , pp , 3      , nat.  , F     , 7       , 2
+b      , pp , 4      , nat.  , F     , 7       , 2
+b      , pp , 2      , circ. , F     , 6       , 2
+fs     , pp , 2      , nat.  , F     , 6       , 2
+====== SECTION 5 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+b      , pp , 2      , nat.  , F     , 6       , 2
+b      , p  , 3      , circ. , pizz  , 7       , 2
+ds -1/8, pp , 2      , circ. , F     , 7       , 2
+b      , pp , 2      , nat.  , F     , 6       , 2
+b      , pp , 4      , circ. , pizz  , 6       , 2
+====== SECTION 6 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+b      , p  , 0      , nat.  , F     , 6       , 2
+b      , mp , 0      , circ. , pizz  , 7       , 2
+fs     , p  , 0      , nat.  , F     , 7       , 2
+ds -1/8, pp , 3      , circ. , F     , 6       , 2
+fs     , p  , 4      , nat.  , F     , 7       , 2
+fs     , pp , 3      , circ. , pizz  , 5       , 2
+====== SECTION 7 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+a -1/6 , p  , 0      , nat.  , F     , 6       , 2
+a -1/6 , pp , 1      , circ. , F     , 7       , 2
+b      , mp , 0      , circ. , pizz  , 7       , 2
+ds -1/8, pp , 2      , circ. , F     , 7       , 2
+fs     , pp , 0      , nat.  , F     , 6       , 2
+b      , pp , 4      , circ. , F     , 7       , 2
+a -1/6 , pp , 1      , nat.  , pizz  , 5       , 2
+====== SECTION 8 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+b      , mp , 1      , nat.  , F     , 6       , 2
+fs     , mp , 4      , nat.  , F     , 7       , 2
+b      , mf , 3      , circ. , pizz  , 7       , 2
+ds -1/8, mp , 0      , nat.  , F     , 7       , 2
+ds -1/8, p  , 1      , circ. , F     , 7       , 2
+b      , mp , 3      , nat.  , F     , 6       , 2
+b      , pp , 3      , nat.  , F:M   , 6       , 2
+b      , p  , 0      , nat.  , pizz  , 5       , 2
+====== SECTION 9 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+bf     , p  , 2      , circ. , F     , 6       , 2
+c      , mp , 2      , nat.  , F     , 7       , 2
+bf     , mf , 4      , nat.  , pizz  , 7       , 2
+f      , p  , 1      , circ. , F     , 7       , 2
+bf     , p  , 3      , circ. , F     , 7       , 2
+f      , p  , 3      , nat.  , F     , 6       , 2
+c      , mp , 0      , nat.  , F     , 7       , 2
+af -1/6, pp , 2      , nat.  , F:M   , 6       , 2
+f      , p  , 3      , circ. , clb   , 5       , 2
+====== SECTION 10 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+a      , p  , 3      , circ. , F     , 6       , 2
+e      , mp , 4      , circ. , pizz  , 6       , 2
+a      , mp , 1      , nat.  , F     , 7       , 2
+a      , mf , 0      , circ. , pizz  , 7       , 2
+b      , mp , 0      , nat.  , F     , 7       , 2
+cs -1/8, p  , 2      , circ. , F     , 7       , 2
+cs -1/8, mp , 4      , circ. , pizz  , 6       , 2
+cs -1/8, mp , 1      , circ. , pizz  , 7       , 2
+e      , pp , 4      , nat.  , F:M   , 6       , 2
+a      , p  , 3      , circ. , clb   , 5       , 2
+====== SECTION 11 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+af     , p  , 3      , circ. , F     , 6       , 2
+af     , mp , 4      , nat.  , F     , 6       , 2
+af     , mp , 2      , circ. , F     , 7       , 2
+af     , f  , 3      , *     , *     , 7       , 0
+af     , mp , 0      , circ. , F     , 7       , 2
+af     , mp , 3      , circ. , F     , 7       , 2
+ef     , mp , 4      , nat.  , F     , 7       , 2
+af     , mp , 2      , nat.  , F     , 6       , 2
+bf     , mp , 0      , circ. , F     , 7       , 2
+ef     , p  , 2      , circ. , F     , 6       , 2
+d -1/4 , mp , 3      , circ. , clb   , 5       , 2
+====== SECTION 12 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+cs -1/4, p  , 3      , circ. , F     , 6       , 2
+g      , mp , 3      , circ. , pizz  , 6       , 2
+b -1/8 , mp , 0      , nat.  , F     , 7       , 2
+b -1/8 , f  , 4      , nat.  , pizz  , 7       , 2
+b -1/8 , mp , 1      , nat.  , F     , 7       , 2
+a      , mp , 0      , nat.  , F     , 7       , 2
+a      , pp , 1      , circ. , F     , 7       , 2
+d      , p  , 2      , nat.  , F     , 6       , 2
+b -1/8 , mp , 1      , nat.  , F     , 7       , 2
+g      , pp , 0      , nat.  , F:M   , 7       , 2
+d      , pp , 0      , nat.  , F     , 6       , 2
+d      , p  , 4      , circ. , clb   , 5       , 2
+====== SECTION 13 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+c -1/4 , p  , 3      , nat.  , F:M   , 7       , 2
+d +1/4 , mf , 2      , circ. , pizz  , 6       , 2
+as -1/8, mf , 4      , nat.  , F     , 7       , 2
+cs     , mf , 4      , circ. , pizz  , 7       , 2
+as -1/8, mf , 0      , circ. , pizz  , 7       , 2
+c -1/4 , mp , 1      , circ. , F     , 7       , 2
+cs     , mp , 2      , circ. , F     , 7       , 2
+cs     , mp , 1      , circ. , F     , 7       , 2
+as -1/8, mf , 0      , circ. , pizz  , 6       , 2
+cs     , mf , 2      , nat.  , F     , 7       , 2
+fs     , pp , 4      , circ. , F:M   , 6       , 2
+as -1/8, p  , 3      , nat.  , F     , 5       , 2
+gs     , mp , 0      , nat.  , clb   , 5       , 2
+====== SECTION 14 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+as -1/8, p  , 3      , nat.  , F:M   , 7       , 2
+cs     , mf , 2      , nat.  , F     , 6       , 2
+cs     , mf , 4      , circ. , pizz  , 7       , 2
+as -1/8, mp , 1      , circ. , F     , 7       , 2
+fs     , f  , 3      , *     , *     , 7       , 0
+e -1/6 , mp , 0      , nat.  , F     , 7       , 2
+e -1/6 , mp , 0      , nat.  , F     , 7       , 2
+cs     , p  , 1      , circ. , F     , 7       , 2
+fs     , mp , 4      , nat.  , F     , 7       , 2
+gs     , mf , 1      , circ. , pizz  , 6       , 2
+fs     , mf , 1      , circ. , pizz  , 7       , 2
+e -1/6 , pp , 3      , circ. , F:M   , 6       , 2
+gs     , p  , 3      , nat.  , F     , 5       , 2
+d +1/4 , mp , 0      , nat.  , clb   , 5       , 2
+====== SECTION 15 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+gs     , p  , 3      , nat.  , F:M   , 7       , 2
+f      , mp , 3      , nat.  , F     , 6       , 2
+d +1/4 , mf , 0      , circ. , pizz  , 6       , 2
+d +1/4 , mp , 2      , circ. , F     , 7       , 2
+c -1/4 , f  , 3      , circ. , clb   , 7       , 2
+fs     , mp , 0      , circ. , F     , 7       , 2
+as -1/8, mf , 1      , circ. , F     , 7       , 2
+fs     , mp , 1      , nat.  , F     , 7       , 2
+cs     , mp , 1      , nat.  , F     , 7       , 2
+cs     , mp , 1      , nat.  , F     , 6       , 2
+fs     , mp , 2      , nat.  , F     , 7       , 2
+f      , mf , 0      , circ. , pizz  , 7       , 2
+cs     , pp , 2      , circ. , F:M   , 6       , 2
+cs     , pp , 0      , circ. , pizz  , 5       , 2
+fs     , mp , 1      , nat.  , clb   , 5       , 2
+====== SECTION 16 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+fs     , p  , 3      , nat.  , F:M   , 7       , 2
+f      , mf , 4      , nat.  , F     , 6       , 2
+cs     , mf , 0      , nat.  , F     , 6       , 2
+gs     , mp , 1      , circ. , F     , 7       , 2
+d +1/4 , mf , 0      , circ. , pizz  , 7       , 2
+fs     , f  , 0      , *     , *     , 7       , 0
+fs     , mp , 1      , circ. , F     , 7       , 2
+cs     , mf , 0      , nat.  , F     , 7       , 2
+cs     , p  , 3      , nat.  , F:M   , 7       , 2
+cs     , mp , 1      , circ. , F     , 7       , 2
+fs     , mp , 1      , nat.  , F     , 6       , 2
+cs     , mp , 2      , nat.  , F     , 7       , 2
+fs     , mp , 1      , circ. , F     , 7       , 2
+as -1/8, p  , 1      , nat.  , F:M   , 6       , 2
+d +1/4 , p  , 0      , circ. , pizz  , 5       , 2
+fs     , p  , 1      , nat.  , clb   , 5       , 4
+====== SECTION 17 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+cs     , p  , 3      , nat.  , F:M   , 6       , 2
+fs     , mp , 0      , nat.  , F     , 6       , 2
+fs     , mp , 0      , nat.  , F     , 6       , 2
+cs     , mp , 4      , nat.  , F     , 7       , 2
+cs     , mp , 4      , nat.  , F     , 7       , 2
+f      , f  , 2      , *     , *     , 7       , 0
+e -1/6 , mp , 3      , circ. , F     , 7       , 2
+gs     , mp , 1      , circ. , F     , 7       , 2
+f      , mp , 1      , nat.  , F     , 7       , 2
+g      , mp , 1      , nat.  , F     , 7       , 2
+cs     , mp , 1      , nat.  , F     , 6       , 2
+gs     , mf , 1      , circ. , pizz  , 6       , 2
+fs     , mf , 2      , nat.  , F     , 7       , 2
+as -1/8, pp , 1      , nat.  , F:M   , 7       , 2
+fs     , p  , 4      , circ. , F     , 6       , 2
+e -1/6 , p  , 3      , nat.  , pizz  , 5       , 2
+f      , p  , 1      , nat.  , clb   , 5       , 4
+====== SECTION 18 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+as -1/8, p  , 3      , nat.  , F:M   , 6       , 2
+fs     , mf , 2      , nat.  , F     , 6       , 2
+cs     , mf , 2      , nat.  , F     , 6       , 2
+fs     , mf , 4      , circ. , pizz  , 7       , 2
+fs     , mp , 1      , circ. , F     , 7       , 2
+d +1/4 , ff , 3      , circ. , clb   , 7       , 2
+as -1/8, mf , 0      , circ. , F     , 7       , 2
+cs     , mf , 1      , nat.  , F     , 7       , 2
+gs     , mf , 4      , nat.  , F     , 7       , 2
+cs     , p  , 3      , nat.  , F:M   , 7       , 2
+as -1/8, mp , 3      , circ. , F     , 7       , 2
+cs     , mp , 3      , nat.  , F     , 6       , 2
+g      , mf , 0      , nat.  , F     , 7       , 2
+d +1/4 , mf , 0      , circ. , pizz  , 7       , 2
+c -1/4 , pp , 4      , circ. , F:M   , 6       , 2
+f      , p  , 3      , circ. , F     , 6       , 2
+cs     , p  , 4      , nat.  , pizz  , 5       , 2
+gs     , mp , 2      , nat.  , clb   , 5       , 4
+====== SECTION 19 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+as -1/8, p  , 3      , nat.  , F:M   , 6       , 2
+fs     , mp , 3      , nat.  , F     , 7       , 2
+gs     , mf , 0      , circ. , pizz  , 6       , 2
+cs     , mf , 4      , circ. , pizz  , 7       , 2
+fs     , mp , 1      , circ. , F     , 7       , 2
+cs     , f  , 3      , nat.  , pizz  , 7       , 2
+fs     , mf , 2      , nat.  , F     , 8       , 2
+as -1/8, mp , 0      , circ. , F     , 7       , 2
+fs     , mp , 1      , circ. , F     , 7       , 2
+cs     , mp , 0      , nat.  , F     , 7       , 2
+g      , mp , 0      , circ. , F     , 7       , 2
+e -1/6 , mp , 3      , nat.  , F     , 6       , 2
+as -1/8, mf , 0      , circ. , pizz  , 6       , 2
+as -1/8, mp , 1      , circ. , F     , 7       , 2
+gs     , mf , 0      , circ. , pizz  , 7       , 2
+c -1/4 , pp , 3      , circ. , F:M   , 6       , 2
+f      , p  , 2      , circ. , F     , 6       , 2
+e -1/6 , pp , 4      , nat.  , pizz  , 5       , 2
+a      , p  , 2      , nat.  , clb   , 5       , 4
+====== SECTION 20 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+cs     , mp , 3      , circ. , F     , 6       , 2
+fs     , mp , 3      , circ. , F     , 7       , 2
+cs     , mf , 3      , circ. , pizz  , 6       , 2
+cs     , mf , 1      , circ. , pizz  , 6       , 2
+e -1/6 , mp , 1      , circ. , F     , 7       , 2
+as -1/8, mf , 4      , nat.  , F     , 7       , 2
+c -1/4 , ff , 1      , circ. , clb   , 7       , 2
+fs     , mp , 3      , circ. , F     , 7       , 2
+fs     , mf , 1      , nat.  , F     , 7       , 2
+as -1/8, mp , 0      , circ. , F     , 7       , 2
+fs     , mp , 3      , nat.  , F:M   , 7       , 2
+a      , mp , 2      , circ. , F     , 7       , 2
+cs     , mp , 0      , nat.  , F     , 6       , 2
+g      , mf , 4      , circ. , pizz  , 6       , 2
+fs     , mf , 3      , nat.  , F     , 7       , 2
+gs     , mf , 1      , nat.  , F     , 7       , 2
+gs     , pp , 3      , circ. , F:M   , 6       , 2
+c -1/4 , mp , 2      , circ. , F     , 6       , 2
+g      , p  , 4      , nat.  , pizz  , 5       , 2
+e -1/6 , mp , 2      , nat.  , clb   , 5       , 4
+====== SECTION 21 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+c      , mp , 3      , circ. , F     , 6       , 2
+c      , mp , 3      , nat.  , F     , 7       , 2
+ef -1/6, mf , 3      , circ. , pizz  , 6       , 2
+a -1/8 , mf , 1      , circ. , pizz  , 6       , 2
+f      , mp , 0      , nat.  , F     , 7       , 2
+f      , mp , 4      , nat.  , F     , 7       , 2
+df +1/4, f  , 4      , nat.  , clb   , 7       , 2
+a -1/8 , mp , 1      , circ. , F     , 7       , 2
+c      , mf , 1      , nat.  , F     , 7       , 2
+c      , mf , 0      , nat.  , F     , 7       , 2
+df +1/4, mp , 4      , nat.  , F     , 7       , 2
+gf     , mp , 0      , circ. , F     , 7       , 2
+af     , mp , 0      , nat.  , F     , 7       , 2
+gf     , mp , 4      , circ. , F     , 7       , 2
+ef -1/6, mf , 3      , circ. , pizz  , 7       , 2
+af     , mf , 1      , circ. , pizz  , 7       , 2
+c      , p  , 1      , nat.  , F:M   , 7       , 2
+ef -1/6, p  , 1      , nat.  , F:M   , 6       , 2
+f      , p  , 3      , nat.  , F     , 5       , 2
+====== SECTION 22 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+e      , mp , 3      , circ. , F     , 6       , 2
+e      , mf , 4      , nat.  , F     , 7       , 2
+e      , mf , 3      , nat.  , pizz  , 6       , 2
+ds     , mf , 2      , circ. , pizz  , 7       , 2
+e      , mf , 4      , nat.  , F     , 7       , 2
+fs     , mp , 1      , circ. , F     , 7       , 2
+b      , f  , 2      , circ. , clb   , 7       , 2
+e      , mf , 3      , nat.  , F     , 8       , 2
+gs -1/8, mp , 3      , circ. , F     , 7       , 2
+e      , mf , 3      , circ. , F     , 8       , 2
+f      , mp , 3      , circ. , F     , 7       , 2
+e      , p  , 4      , nat.  , F:M   , 7       , 2
+b      , mp , 2      , circ. , F     , 7       , 2
+gs -1/8, mp , 4      , nat.  , F     , 6       , 2
+ds     , mf , 4      , circ. , pizz  , 6       , 2
+b      , mf , 0      , nat.  , F     , 7       , 2
+b      , f  , 4      , circ. , pizz  , 7       , 2
+b      , pp , 0      , circ. , F:M   , 6       , 2
+====== SECTION 23 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+bf     , mp , 3      , circ. , F     , 7       , 2
+df -1/6, mp , 4      , circ. , F     , 7       , 2
+bf     , mf , 3      , nat.  , pizz  , 6       , 2
+ef     , mf , 0      , nat.  , F     , 6       , 2
+ef     , mf , 0      , circ. , pizz  , 7       , 2
+bf     , mp , 1      , nat.  , F:M   , 7       , 2
+b +1/4 , mf , 4      , circ. , pizz  , 7       , 2
+bf     , f  , 2      , *     , *     , 7       , 0
+df -1/6, mp , 2      , circ. , F     , 7       , 2
+g -1/8 , mf , 1      , nat.  , F     , 7       , 2
+ef     , mf , 0      , nat.  , F     , 7       , 2
+b +1/4 , mp , 4      , nat.  , F     , 7       , 2
+ef     , mp , 1      , circ. , F     , 7       , 2
+df -1/6, mp , 2      , circ. , F     , 7       , 2
+e      , mp , 4      , nat.  , F     , 7       , 2
+e      , mf , 3      , circ. , pizz  , 6       , 2
+ef     , mf , 3      , circ. , pizz  , 7       , 2
+====== SECTION 24 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+d      , mp , 4      , circ. , F     , 7       , 2
+a      , mf , 3      , nat.  , F     , 7       , 2
+e      , f  , 0      , nat.  , pizz  , 6       , 2
+fs -1/8, mf , 2      , circ. , pizz  , 6       , 2
+fs -1/8, mf , 2      , circ. , pizz  , 7       , 2
+fs -1/8, mp , 1      , circ. , F     , 7       , 2
+a      , mf , 1      , nat.  , F     , 7       , 2
+a      , f  , 4      , nat.  , clb   , 7       , 2
+d      , mf , 2      , circ. , F     , 7       , 2
+c -1/6 , mp , 0      , circ. , F     , 7       , 2
+d      , mp , 3      , nat.  , F:M   , 8       , 2
+a      , mp , 3      , circ. , F     , 7       , 2
+fs -1/8, p  , 4      , nat.  , F:M   , 7       , 2
+d      , mp , 1      , nat.  , F     , 7       , 2
+c -1/6 , mf , 2      , nat.  , F     , 6       , 2
+c -1/6 , mp , 4      , circ. , F     , 7       , 2
+====== SECTION 25 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+a      , mp , 4      , nat.  , F     , 7       , 2
+c -1/6 , mf , 3      , nat.  , F     , 7       , 2
+gs -1/4, mf , 2      , circ. , pizz  , 6       , 2
+fs -1/8, mf , 0      , circ. , pizz  , 6       , 2
+fs -1/8, mf , 0      , circ. , pizz  , 6       , 2
+gs -1/4, mp , 1      , circ. , F     , 7       , 2
+fs -1/8, mf , 0      , nat.  , F     , 7       , 2
+e      , f  , 2      , nat.  , clb   , 7       , 2
+e      , mf , 4      , nat.  , F     , 8       , 2
+c -1/6 , mp , 1      , circ. , F     , 7       , 2
+a      , mf , 3      , nat.  , F     , 8       , 2
+cs     , mf , 0      , circ. , pizz  , 7       , 2
+d      , mp , 4      , nat.  , F     , 7       , 2
+c -1/6 , mp , 0      , nat.  , F     , 7       , 2
+fs -1/8, mp , 3      , circ. , F     , 7       , 2
+====== SECTION 26 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+d      , mp , 4      , nat.  , F     , 7       , 2
+d      , mf , 4      , nat.  , F     , 7       , 2
+d      , f  , 4      , circ. , pizz  , 6       , 2
+a      , mf , 4      , circ. , pizz  , 6       , 2
+a      , mf , 0      , circ. , pizz  , 6       , 2
+fs -1/8, mf , 0      , nat.  , F     , 7       , 2
+fs -1/8, mp , 0      , circ. , F     , 7       , 2
+d      , f  , 3      , circ. , pizz  , 7       , 2
+c -1/6 , ff , 2      , *     , *     , 7       , 0
+e      , mp , 3      , circ. , F     , 7       , 2
+e      , mf , 1      , nat.  , F     , 7       , 2
+as +1/4, mp , 2      , circ. , F     , 7       , 2
+fs -1/8, mp , 3      , circ. , F     , 7       , 2
+fs -1/8, mp , 3      , circ. , F     , 7       , 2
+====== SECTION 27 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+d      , mf , 4      , nat.  , F     , 7       , 2
+c -1/6 , mf , 3      , nat.  , F     , 7       , 2
+as +1/4, mf , 0      , circ. , pizz  , 6       , 2
+e      , mf , 4      , circ. , pizz  , 6       , 2
+as +1/4, mf , 2      , circ. , pizz  , 6       , 2
+d      , mf , 0      , circ. , pizz  , 7       , 2
+d      , mp , 0      , nat.  , F:M   , 7       , 2
+fs -1/8, mf , 4      , nat.  , F     , 7       , 2
+fs -1/8, f  , 1      , nat.  , clb   , 7       , 2
+e      , mf , 2      , nat.  , F     , 7       , 2
+fs -1/8, mf , 3      , circ. , F     , 7       , 2
+a      , mf , 4      , circ. , F     , 8       , 2
+fs -1/8, mf , 0      , nat.  , F     , 7       , 2
+====== SECTION 28 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+c -1/6 , mf , 4      , nat.  , F     , 7       , 2
+e      , mf , 3      , nat.  , F     , 7       , 2
+c -1/6 , mp , 2      , nat.  , F     , 6       , 2
+a      , mf , 3      , nat.  , F     , 6       , 2
+a      , mf , 4      , nat.  , F     , 7       , 2
+fs -1/8, mf , 4      , circ. , pizz  , 7       , 2
+a      , mp , 0      , circ. , F     , 7       , 2
+fs -1/8, mf , 3      , nat.  , F     , 7       , 2
+d      , f  , 2      , circ. , clb   , 7       , 2
+fs -1/8, f  , 3      , nat.  , F     , 8       , 2
+d      , mp , 0      , circ. , F     , 7       , 2
+c -1/6 , mf , 1      , nat.  , F     , 7       , 2
+====== SECTION 29 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+fs -1/8, mf , 0      , nat.  , F     , 7       , 2
+e      , mf , 3      , nat.  , F     , 7       , 2
+d      , mp , 3      , circ. , F     , 7       , 2
+fs -1/8, mf , 2      , circ. , pizz  , 6       , 2
+e      , mf , 1      , circ. , pizz  , 6       , 2
+fs -1/8, f  , 2      , circ. , pizz  , 6       , 2
+a      , mf , 0      , nat.  , F     , 7       , 2
+a      , mf , 1      , circ. , F     , 7       , 2
+d      , f  , 2      , nat.  , pizz  , 7       , 2
+fs -1/8, ff , 2      , *     , *     , 7       , 0
+d      , mf , 0      , circ. , F     , 7       , 2
+====== SECTION 30 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+c -1/6 , mf , 0      , nat.  , F     , 7       , 2
+a      , mf , 3      , nat.  , F     , 7       , 2
+a      , mp , 3      , circ. , F     , 7       , 2
+d      , mf , 1      , nat.  , pizz  , 5       , 2
+fs -1/8, mf , 3      , circ. , pizz  , 6       , 2
+a      , f  , 4      , circ. , pizz  , 6       , 2
+fs -1/8, mf , 0      , nat.  , F     , 7       , 2
+d      , mp , 0      , circ. , F     , 7       , 2
+a      , mf , 3      , circ. , pizz  , 7       , 2
+d      , mf , 1      , circ. , clt   , 7       , 2
+a      , mf , 3      , circ. , F     , 8       , 2
+d      , mp , 1      , nat.  , F:M   , 7       , 2
+====== SECTION 31 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+d      , mf , 0      , nat.  , F     , 7       , 2
+e      , mf , 3      , nat.  , F     , 7       , 2
+d      , mp , 3      , circ. , F     , 7       , 2
+fs -1/8, f  , 1      , nat.  , pizz  , 5       , 2
+a      , f  , 0      , circ. , pizz  , 6       , 2
+d      , f  , 4      , circ. , pizz  , 6       , 2
+d      , mf , 0      , nat.  , F     , 7       , 2
+c -1/6 , mp , 1      , nat.  , F:M   , 7       , 2
+e      , mf , 0      , nat.  , F     , 7       , 2
+d      , f  , 4      , circ. , clt   , 7       , 2
+d      , mf , 0      , circ. , F     , 8       , 2
+====== SECTION 32 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+df -1/6, mf , 0      , nat.  , F     , 7       , 2
+g -1/8 , mf , 2      , nat.  , F     , 6       , 2
+g -1/8 , mp , 3      , nat.  , F:M   , 7       , 2
+ef     , f  , 1      , nat.  , pizz  , 5       , 2
+bf     , f  , 3      , circ. , pizz  , 6       , 2
+bf     , mf , 1      , circ. , pizz  , 6       , 2
+bf     , mf , 2      , circ. , pizz  , 7       , 2
+f      , mp , 4      , nat.  , F:M   , 7       , 2
+bf     , mf , 3      , nat.  , F     , 7       , 2
+ef     , f  , 2      , nat.  , pizz  , 7       , 2
+====== SECTION 33 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+ef     , mf , 0      , nat.  , F     , 7       , 2
+ef     , mf , 2      , nat.  , F     , 6       , 2
+f      , mp , 3      , nat.  , F:M   , 7       , 2
+ef     , f  , 1      , nat.  , pizz  , 5       , 2
+bf     , mf , 3      , circ. , pizz  , 6       , 2
+ef     , mf , 0      , nat.  , F     , 7       , 2
+ef     , f  , 0      , circ. , pizz  , 7       , 2
+ef     , mf , 4      , circ. , F     , 7       , 2
+ef     , mf , 2      , circ. , F     , 7       , 2
+====== SECTION 34 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+df -1/6, mf , 0      , nat.  , F     , 7       , 2
+f      , mf , 1      , nat.  , F     , 6       , 2
+df -1/6, mp , 3      , nat.  , F:M   , 7       , 2
+f      , f  , 2      , circ. , clb   , 6       , 2
+g -1/8 , mf , 4      , nat.  , F     , 6       , 2
+df -1/6, mf , 1      , nat.  , F     , 7       , 2
+ef     , f  , 1      , circ. , pizz  , 6       , 2
+bf     , mf , 4      , nat.  , F     , 7       , 2
+bf     , mf , 1      , nat.  , F     , 7       , 2
+ef     , mf , 2      , nat.  , F     , 6       , 2
+====== SECTION 35 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+ef     , mf , 0      , nat.  , F     , 7       , 2
+f      , mp , 1      , circ. , F     , 6       , 2
+ef     , mp , 3      , nat.  , F:M   , 7       , 2
+df -1/6, f  , 1      , nat.  , pizz  , 6       , 2
+bf     , mf , 4      , nat.  , F     , 6       , 2
+ef     , mf , 2      , circ. , pizz  , 7       , 2
+ef     , mf , 4      , circ. , pizz  , 6       , 2
+bf     , mf , 0      , nat.  , F     , 7       , 2
+ef     , mp , 1      , nat.  , F:M   , 7       , 2
+====== SECTION 36 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+ef     , mf , 0      , nat.  , F     , 7       , 2
+ef     , mp , 0      , nat.  , F     , 6       , 2
+bf     , mp , 3      , nat.  , F:M   , 7       , 2
+ef     , f  , 3      , nat.  , pizz  , 6       , 2
+ef     , mf , 3      , nat.  , F     , 6       , 2
+bf     , mf , 0      , circ. , pizz  , 6       , 2
+ef     , f  , 2      , circ. , pizz  , 6       , 2
+ef     , mf , 1      , circ. , pizz  , 7       , 2
+====== SECTION 37 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+bf     , mf , 0      , nat.  , F     , 7       , 2
+df -1/6, mp , 0      , circ. , F     , 6       , 2
+ef     , mp , 3      , nat.  , F:M   , 7       , 2
+ef     , f  , 0      , circ. , pizz  , 6       , 2
+ef     , mf , 3      , circ. , pizz  , 6       , 2
+ef     , mf , 2      , circ. , pizz  , 6       , 2
+g -1/8 , f  , 3      , nat.  , pizz  , 6       , 2
+====== SECTION 38 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+ef     , mf , 4      , nat.  , F     , 7       , 2
+bf     , mp , 4      , circ. , F     , 6       , 2
+ef     , mp , 3      , circ. , F     , 7       , 2
+g -1/8 , mf , 2      , circ. , pizz  , 7       , 2
+ef     , mf , 2      , circ. , pizz  , 5       , 2
+bf     , f  , 3      , circ. , pizz  , 6       , 2
+ef     , mf , 4      , nat.  , F     , 7       , 2
+ef     , f  , 0      , circ. , pizz  , 7       , 2
+====== SECTION 39 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+c -1/6 , mf , 4      , nat.  , F     , 7       , 2
+d      , mp , 4      , circ. , F     , 6       , 2
+fs -1/8, mp , 3      , circ. , F     , 7       , 2
+d      , mf , 3      , circ. , pizz  , 7       , 2
+d      , mf , 1      , circ. , pizz  , 5       , 2
+d      , f  , 3      , circ. , pizz  , 6       , 2
+d      , mf , 4      , nat.  , F     , 7       , 2
+====== SECTION 40 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+cs     , mf , 4      , nat.  , F     , 7       , 2
+gs     , mp , 4      , circ. , F     , 6       , 2
+f -1/8 , mf , 3      , nat.  , F     , 7       , 2
+cs     , mf , 4      , nat.  , F     , 7       , 2
+gs     , mf , 0      , nat.  , pizz  , 5       , 2
+gs     , f  , 2      , circ. , pizz  , 6       , 2
+====== SECTION 41 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+c      , mf , 4      , circ. , pizz  , 7       , 2
+c      , mp , 4      , circ. , F     , 6       , 2
+c      , mf , 4      , circ. , pizz  , 7       , 2
+c      , mf , 4      , circ. , F     , 7       , 2
+c      , f  , 0      , nat.  , pizz  , 5       , 2
+====== SECTION 42 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+g      , mf , 4      , circ. , pizz  , 7       , 2
+g      , mp , 4      , circ. , F     , 6       , 2
+c      , mf , 3      , circ. , pizz  , 7       , 2
+c      , mp , 4      , circ. , F     , 7       , 2
+c      , f  , 1      , nat.  , pizz  , 5       , 2
+c      , mf , 3      , nat.  , F     , 6       , 2
+====== SECTION 43 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+c      , mf , 4      , nat.  , F     , 7       , 2
+c      , mp , 4      , circ. , F     , 6       , 2
+e -1/8 , mf , 4      , circ. , pizz  , 7       , 2
+c      , mp , 3      , nat.  , F:M   , 7       , 2
+g      , f  , 1      , circ. , clb   , 5       , 2
+====== SECTION 44 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+c      , mf , 4      , nat.  , F     , 7       , 2
+c      , mp , 4      , circ. , F     , 6       , 2
+c      , mf , 4      , circ. , pizz  , 7       , 2
+g      , mp , 3      , nat.  , F:M   , 7       , 2
+====== SECTION 45 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+c      , mf , 0      , nat.  , F     , 7       , 2
+c      , mp , 4      , circ. , F     , 6       , 2
+g      , f  , 0      , circ. , pizz  , 7       , 2
+====== SECTION 46 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+c      , mf , 0      , nat.  , F     , 7       , 2
+c      , mp , 0      , nat.  , F:M   , 6       , 2
+c      , f  , 4      , circ. , pizz  , 7       , 2
+g      , mp , 2      , nat.  , F:M   , 6       , 2
+====== SECTION 47 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+c      , mf , 0      , nat.  , F     , 7       , 2
+c      , mp , 1      , nat.  , F:M   , 6       , 2
+====== SECTION 48 ======
+partial, dyn, f pres., motion, attack, bow pos., bow pres.
+c      , mf , 0      , nat.  , F     , 7       , 2
